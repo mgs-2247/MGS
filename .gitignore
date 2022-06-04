@@ -1,0 +1,11 @@
+donation_logging.txt
+__pycache__
+config.json
+donations.json
+testing.py
+mgs.py
+message commands
+fun.py
+items.json
+ctx_menu.py
+dev.py
