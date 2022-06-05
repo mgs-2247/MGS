@@ -9,3 +9,5 @@ fun.py
 items.json
 ctx_menu.py
 dev.py
+env
+.vscode
